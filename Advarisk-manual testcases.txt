@@ -1,0 +1,77 @@
+Write the manual test cases for https://www.saucedemo.com/
+    - Login
+    - Cart
+    - Checkout page
+    - Checkout process
+    - Product details page
+    - Product list page
+
+	
+
+Test Case 1: Login
+
+Launch the website https://www.saucedemo.com/.
+Verify that the login page is displayed.
+Enter a valid username in the Username field.
+Enter a valid password in the Password field.
+Click on the "Login" button.
+Verify that the user is successfully logged in and directed to the home page.
+
+Test Case 2: Cart
+
+Login to the website using valid credentials.
+Verify that the user is on the home page.
+Browse through the product list.
+Click on a product to view its details.
+Verify that the product details page is displayed.
+Add the product to the cart.
+Repeat steps 4-6 for multiple products.
+Click on the shopping cart icon to view the cart.
+Verify that the selected products are displayed in the cart.
+Verify that the product names, quantities, and prices are correct.
+
+Test Case 3: Checkout Page
+
+Login to the website using valid credentials.
+Verify that the user is on the home page.
+Browse through the product list.
+Click on a product to view its details.
+Verify that the product details page is displayed.
+Add the product to the cart.
+Click on the shopping cart icon to view the cart.
+Click on the "Checkout" button to proceed to the checkout page.
+Verify that the checkout page is displayed.
+Verify that the shipping address and payment details are required.
+
+Test Case 4: Checkout Process
+
+Login to the website using valid credentials.
+Verify that the user is on the home page.
+Browse through the product list.
+Click on a product to view its details.
+Verify that the product details page is displayed.
+Add the product to the cart.
+Click on the shopping cart icon to view the cart.
+Click on the "Checkout" button to proceed to the checkout page.
+Enter the shipping address and payment details.
+Click on the "Place Order" button to complete the checkout process.
+Verify that the order confirmation page is displayed.
+Verify that the order details, including the product names and total amount, are correct.
+
+Test Case 5: Product Details Page
+
+Login to the website using valid credentials.
+Verify that the user is on the home page.
+Browse through the product list.
+Click on a product to view its details.
+Verify that the product details page is displayed.
+Verify that the product name, description, price, and other relevant information are displayed correctly.
+
+Test Case 6: Product List Page
+
+Login to the website using valid credentials.
+Verify that the user is on the home page.
+Browse through the product list.
+Verify that the products are displayed in a clear and organized manner.
+Verify that each product shows its name, image, price, and other relevant information.
+Verify that pagination or scroll functionality is available if there are multiple pages of products.
